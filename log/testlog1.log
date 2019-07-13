@@ -1,0 +1,40 @@
+2019-07-13 16:50:17,143 [main] INFO com.stepdefinations.Hookable - Scenario 1 : Verify login functionality by passing valid credentials
+2019-07-13 16:50:23,917 [main] INFO com.operations.Operations - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-13 16:50:27,313 [main] INFO com.operations.Operations - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-13 16:50:28,716 [main] INFO com.operations.Operations - Login page verified..!!
+2019-07-13 16:50:31,228 [main] INFO com.operations.Operations - UserName Entered : admin
+2019-07-13 16:50:33,736 [main] INFO com.operations.Operations - Password Entered : admin@123
+2019-07-13 16:50:36,190 [main] INFO com.operations.Operations - Clicked on submit Button..!!
+2019-07-13 16:50:57,767 [main] ERROR com.operations.Operations - Unable to locate element..!!
+2019-07-13 16:51:01,000 [main] INFO com.operations.Operations - Browser Closed..!!
+2019-07-13 16:51:01,675 [main] INFO com.stepdefinations.Hookable - ========================== End Of Scenario ==============================
+2019-07-13 16:51:02,704 [main] INFO com.stepdefinations.Hookable - Scenario 2 : Verify login functionality by passing invalid credentials
+2019-07-13 16:51:07,749 [main] INFO com.operations.Operations - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-13 16:51:11,084 [main] INFO com.operations.Operations - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-13 16:51:12,462 [main] INFO com.operations.Operations - Login page verified..!!
+2019-07-13 16:51:14,969 [main] INFO com.operations.Operations - UserName Entered : Admin
+2019-07-13 16:51:17,458 [main] INFO com.operations.Operations - Password Entered : Admin@123
+2019-07-13 16:51:19,948 [main] INFO com.operations.Operations - Clicked on submit Button..!!
+2019-07-13 16:51:21,388 [main] ERROR com.operations.Operations - Error message Not displayed..!!
+2019-07-13 16:51:24,618 [main] INFO com.operations.Operations - Browser Closed..!!
+2019-07-13 16:51:24,801 [main] INFO com.stepdefinations.Hookable - ========================== End Of Scenario ==============================
+2019-07-13 16:51:25,543 [main] INFO com.stepdefinations.Hookable - Scenario 3 : Verify login functionality by passing invalid credentials
+2019-07-13 16:51:29,647 [main] INFO com.operations.Operations - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-13 16:51:33,493 [main] INFO com.operations.Operations - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-13 16:51:34,855 [main] INFO com.operations.Operations - Login page verified..!!
+2019-07-13 16:51:37,370 [main] INFO com.operations.Operations - UserName Entered : admin
+2019-07-13 16:51:39,933 [main] INFO com.operations.Operations - Password Entered : Admin@123
+2019-07-13 16:51:42,361 [main] INFO com.operations.Operations - Clicked on submit Button..!!
+2019-07-13 16:51:43,795 [main] ERROR com.operations.Operations - Error message Not displayed..!!
+2019-07-13 16:51:46,979 [main] INFO com.operations.Operations - Browser Closed..!!
+2019-07-13 16:51:47,201 [main] INFO com.stepdefinations.Hookable - ========================== End Of Scenario ==============================
+2019-07-13 16:51:47,924 [main] INFO com.stepdefinations.Hookable - Scenario 4 : Verify login functionality by passing invalid credentials
+2019-07-13 16:51:52,587 [main] INFO com.operations.Operations - pass Result : Chrome Browser Launched Successfully..!!
+2019-07-13 16:51:56,030 [main] INFO com.operations.Operations - pass Result : Url Entered : http://www.gcrit.com/build3/admin/login 
+2019-07-13 16:51:57,453 [main] INFO com.operations.Operations - Login page verified..!!
+2019-07-13 16:51:59,967 [main] INFO com.operations.Operations - UserName Entered : Admin
+2019-07-13 16:52:02,495 [main] INFO com.operations.Operations - Password Entered : admin@123
+2019-07-13 16:52:05,013 [main] INFO com.operations.Operations - Clicked on submit Button..!!
+2019-07-13 16:52:06,400 [main] ERROR com.operations.Operations - Error message Not displayed..!!
+2019-07-13 16:52:09,599 [main] INFO com.operations.Operations - Browser Closed..!!
+2019-07-13 16:52:09,802 [main] INFO com.stepdefinations.Hookable - ========================== End Of Scenario ==============================
